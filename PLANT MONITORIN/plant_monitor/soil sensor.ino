@@ -1,3 +1,5 @@
+// (to be used individually) SERIAL MONITOR OUTPUT
+
 #include <SPI.h>
 #include <Wire.h>
 
